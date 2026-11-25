@@ -1,0 +1,6 @@
+/build/
+/labmon
+/result
+/result-*
+*.qcow2
+*.qcow2.*
